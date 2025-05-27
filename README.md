@@ -26,5 +26,9 @@ In this project, I conducted an analysis of email phishing attempts occurring in
 
 ### o Here is information we get from the ip.
 
+![whois](https://github.com/user-attachments/assets/60f621ab-4ef0-4ddd-b1d8-37f8b5332a37)
+
+
+
 
 
