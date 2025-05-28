@@ -69,6 +69,32 @@ Lets Check it by uploading it on VirusTotal.
 
 ![image](https://github.com/user-attachments/assets/dac942cb-9cd1-4412-96cd-0a38a0f62e08)
 
- That’s How you can analyze any file.
+ That’s how you can analyze any file.
+## Verify presence of spelling or grammar errors.
+![Screenshot 2025-05-28 204329](https://github.com/user-attachments/assets/224ed8e2-fc40-4fa4-beb5-efb2ce29836d)
 
+### Examples of Poor Grammar and Spelling in Phishing Emails:
 
+### Bad Grammer:
+
+"If exceeded it limit." 
+Sentences might be grammatically incorrect, like using the wrong tense or subject-verb agreement. 
+
+### Awkward Language:
+
+Phishing emails often use language that sounds unnatural, forced or threat, like "Your mailbox will be suspended." 
+
+### Typos:
+
+Typos are common in phishing emails, often indicating the sender is not a native English speaker or is rushing to send the email. 
+
+## Summarize phishing traits found in the email.
+ ### phishing traits:
+1. Generic Greetings: Legitimate companies typically address you by name or use a personalized greeting. Phishing emails often use "Dear Customer," "Dear Sir/Madam," or other impersonal greetings. 
+2. Urgency and Threats: They may claim your account is compromised, payment is overdue, or you need to act immediately to avoid penalties. 
+3. Poor Spelling and Grammar: While some sophisticated phishing emails might avoid this, many contain typos, grammatical errors, or awkward phrasing. 
+4. Suspicious Links and URLs: Hovering over a link might reveal a different URL than what is displayed, or the URL itself may be misspelled or look suspicious. 
+5. Requesting Personal Information: They often ask for sensitive information like login credentials, payment details, or social security numbers. 
+6. Generic Content: The email content might seem generic, unrelated to your specific situation, or sound too good to be true. 
+7. Suspicious Attachments: Be wary of opening any attachments, especially unexpected ones, as they may contain malware. 
+8. Mismatched Sender Information: The sender's address or logo might not match the rest of the email or company signature
